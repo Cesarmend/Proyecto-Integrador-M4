@@ -9,3 +9,9 @@ All the CSV files were successfully copied into the HDFS
 ![image](https://github.com/user-attachments/assets/aa6212a8-6e61-4f0b-9a96-80e5fd748f39)
 
 
+# Part 2) Hive
+
+The docker-compose-v2.yml environment was used and we entered into the hive -bash command setup
+![image](https://github.com/user-attachments/assets/c08eacd5-60e8-4867-8b41-0e1ac475081c)
+
+
