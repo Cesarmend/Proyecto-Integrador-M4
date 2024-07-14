@@ -20,4 +20,7 @@ Then the file Paso02.hql was copied into the hdfs environment and subsequently e
 
 ![image](https://github.com/user-attachments/assets/33f5b76e-0527-4925-bc92-701edc79ea65)
 
+Later, some SQL queries were tested to verify if it recognized the tables in the Paso02.hql file
+![image](https://github.com/user-attachments/assets/ccbdb256-2cab-4bf9-941f-c1d8933c52ed)
+
 
