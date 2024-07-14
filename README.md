@@ -16,7 +16,7 @@ The docker-compose-v2.yml environment was used and we entered into the hive -bas
 
 Then the file Paso02.hql was copied into the hdfs enviroment and subsequently execution with the following command:
 
-hive -f /opt/Paso02.hql
+    hive -f /opt/Paso02.hql
 
 ![image](https://github.com/user-attachments/assets/33f5b76e-0527-4925-bc92-701edc79ea65)
 
