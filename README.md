@@ -14,4 +14,10 @@ All the CSV files were successfully copied into the HDFS
 The docker-compose-v2.yml environment was used and we entered into the hive -bash command setup
 ![image](https://github.com/user-attachments/assets/c08eacd5-60e8-4867-8b41-0e1ac475081c)
 
+Then the file Paso02.hql was copied into the hdfs enviroment and subsequently execution with the following command:
+
+hive -f /opt/Paso02.hql
+
+![image](https://github.com/user-attachments/assets/33f5b76e-0527-4925-bc92-701edc79ea65)
+
 
