@@ -24,3 +24,6 @@ Later, some SQL queries were tested to verify if it recognized the tables in the
 ![image](https://github.com/user-attachments/assets/ccbdb256-2cab-4bf9-941f-c1d8933c52ed)
 
 
+# Part 3) Parquet format
+A test table named cliente_parquet was created to try out the new format on the hive environment 
+![image](https://github.com/user-attachments/assets/178abe6d-afac-4880-89f0-69c2883035f8)
